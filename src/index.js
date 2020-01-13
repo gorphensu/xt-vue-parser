@@ -207,7 +207,7 @@ const transformModule = (code) => {
 }
 
 
-const execute = (code) => {
+export const execute = (code) => {
   let { script, style } = transformModule(code)
   return `
     ;${createStyleNode(style)};
