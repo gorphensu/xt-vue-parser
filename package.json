@@ -1,6 +1,6 @@
 {
   "name": "xt-vue-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "解析vue模板变成字符串",
   "main": "dist/index.js",
   "author": "Gorphen Su <32945777@qq.com>",
